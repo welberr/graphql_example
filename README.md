@@ -1,5 +1,6 @@
 <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg">
